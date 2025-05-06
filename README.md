@@ -3,7 +3,9 @@
 
 Official repository to replicate the setup and experiments from our work [PerfCodeGen: Improving Performance of LLM Generated Code with Execution Feedback](https://arxiv.org/abs/2412.03578).
 
-PerfCodeGen has been accepted to the [International Conference on AI Foundation Models and Software Engineering (FORGE 2025) @ ICSE](https://conf.researchr.org/home/forge-2025)!
+PerfCodeGen has been accepted to the [International Conference on AI Foundation Models and Software Engineering (FORGE 2025) @ ICSE]([https://conf.researchr.org/home/forge-2025](https://conf.researchr.org/details/forge-2025/forge-2025-papers/2/PerfCodeGen-Improving-Performance-of-LLM-Generated-Code-with-Execution-Feedback))!
+
+Update: PerfCodeGen has won an ACM SIGSOFT Distinguished Paper award at FORGE 2025!
 
 <!--Blogpost on PerfCodeGen: ![Blog](TODO)-->
 
